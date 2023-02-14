@@ -1,4 +1,4 @@
-# OMF Resources
+# The Open Metaverse Foundation Resources
 
 Welcome to the Open Metaverse Foundation (OMF). This is a central location for information related to our work, the processes our projects uses and how to contribute with them. 
 
