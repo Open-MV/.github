@@ -1,6 +1,6 @@
-# OMF Community Resources
+# OMF Resources
 
-Welcome to the Open Metaverse Foundation (OMF) Community documentation. This is a central location for information related to our work, the processes our projects uses and how to contribute with them. 
+Welcome to the Open Metaverse Foundation (OMF). This is a central location for information related to our work, the processes our projects uses and how to contribute with them. 
 
 First and foremost, ensure you read the [code of conduct](CODE_OF_CONDUCT.md) and [values](values.md) guides. Then reach out to *Foundational Interest Groups* (FIGs) that are involved in the areas you want to contribute to.
 
@@ -10,14 +10,14 @@ First and foremost, ensure you read the [code of conduct](CODE_OF_CONDUCT.md) an
 As of Jan. 2023, the Foundation is divided in eight Foundational Interest Groups (FIGs). Each FIG is responsible for the discussions and proposals of certain points related to the open metaverse structure. The current FIGs, and its responsabilities, are:
 |             **FIG**            |                                                                                                 **Overview of Responsabilities**                                                                                                |
 |:------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Users                          | Responsible for fostering open source and standards to support user-focused objects.                                                                                                                                            |
-| Transactions                   | Dedicated to creating open source and standards for the transfer of ownership and receipts required to audit and verify objects.                                                                                                |
-| Digital Assets                 | Responsible for fostering open source and standards related to digital assets and objects created, consumed or destroyed.                                                                                                       |
-| Virtual Worlds and Simulations | Discusses open source and standards for the creation, management, and operation of persistent experiences                                                                                                                       |
-| Artificial Intelligence        | Fosters open source and standards for the creation, management, and operation of artificial intelligence  agents, NPCs, trainers, and augmentations that may alter or interact  with experiences or worlds                      |
-| Networking                     | Discusses open source and standards pertaining to transport architecture, services, and operations, enabling data  transmission across various digital mediums in a global environment                                          |
-| Security and Privacy           | Supporting the security, accessibility, and privacy practices for all foundational interest groups                                                                                                                              |
-| Legal and Policy               | Discusses non-legal advice of open source and standards pertaining to rights, intellectual property, laws, and policies that will arise from the creation or enhancement of the processor technologies related to the Metaverse |
+| [Users](https://github.com/Open-MV/fig-users)                          | Responsible for fostering open source and standards to support user-focused objects.                                                                                                                                            |
+| [Transactions](https://github.com/Open-MV/fig-transactions)                   | Dedicated to creating open source and standards for the transfer of ownership and receipts required to audit and verify objects.                                                                                                |
+| [Digital Assets](https://github.com/Open-MV/fig-digitalassets)                 | Responsible for fostering open source and standards related to digital assets and objects created, consumed or destroyed.                                                                                                       |
+| [Virtual Worlds and Simulations](https://github.com/Open-MV/fig-virtualworldsim) | Discusses open source and standards for the creation, management, and operation of persistent experiences                                                                                                                       |
+| [Artificial Intelligence](https://github.com/Open-MV/fig-AI)        | Fosters open source and standards for the creation, management, and operation of artificial intelligence  agents, NPCs, trainers, and augmentations that may alter or interact  with experiences or worlds                      |
+| [Networking](https://github.com/Open-MV/fig-networking)                     | Discusses open source and standards pertaining to transport architecture, services, and operations, enabling data  transmission across various digital mediums in a global environment                                          |
+| [Security and Privacy](https://github.com/Open-MV/fig-security)           | Supporting the security, accessibility, and privacy practices for all foundational interest groups                                                                                                                              |
+| [Legal and Policy](https://github.com/Open-MV/fig-legal-policy)               | Discusses non-legal advice of open source and standards pertaining to rights, intellectual property, laws, and policies that will arise from the creation or enhancement of the processor technologies related to the Metaverse |
 
 ## General Responsibilities of the Community FIG
 In summary, our responsibilities include:
@@ -29,11 +29,6 @@ In summary, our responsibilities include:
 
 **Participate in the meetings**
 As we just started our works, joining the meetings is essential to give feedback and influence how the future metaverse will look like. Everyone is welcome and, for every group, we have an agenda posted few days before, and we also need people who volunteer for taking notes or even facilitate the meetings!
-
-This is the current agenda for the meetings:
-|    **Group**    | **Periodicity** | **Date** |
-|:---------------:|:---------------:|:--------:|
-| General Meeting |     Biweekly    |   (TBA)  |
 
 You can also check out our [calendar](https://lists.openmv.org/g/calendar/calendar) for events and past meeting notes.
 
